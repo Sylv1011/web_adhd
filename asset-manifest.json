@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/web_adhd/static/css/main.b0d2e4c2.chunk.css",
+    "main.js": "/web_adhd/static/js/main.fe98d298.chunk.js",
+    "main.js.map": "/web_adhd/static/js/main.fe98d298.chunk.js.map",
+    "runtime-main.js": "/web_adhd/static/js/runtime-main.97785a29.js",
+    "runtime-main.js.map": "/web_adhd/static/js/runtime-main.97785a29.js.map",
+    "static/js/2.fcf917ba.chunk.js": "/web_adhd/static/js/2.fcf917ba.chunk.js",
+    "static/js/2.fcf917ba.chunk.js.map": "/web_adhd/static/js/2.fcf917ba.chunk.js.map",
+    "index.html": "/web_adhd/index.html",
+    "precache-manifest.f56f58c1a2849c6122879f0484f827d7.js": "/web_adhd/precache-manifest.f56f58c1a2849c6122879f0484f827d7.js",
+    "service-worker.js": "/web_adhd/service-worker.js",
+    "static/css/main.b0d2e4c2.chunk.css.map": "/web_adhd/static/css/main.b0d2e4c2.chunk.css.map",
+    "static/js/2.fcf917ba.chunk.js.LICENSE.txt": "/web_adhd/static/js/2.fcf917ba.chunk.js.LICENSE.txt",
+    "static/media/Venn.png": "/web_adhd/static/media/Venn.205bf35a.png",
+    "static/media/adderall.jpg": "/web_adhd/static/media/adderall.2a3eb4fd.jpg",
+    "static/media/adhdBrain.jpg": "/web_adhd/static/media/adhdBrain.4e3983c9.jpg",
+    "static/media/adhdWoman.png": "/web_adhd/static/media/adhdWoman.12ebf26e.png",
+    "static/media/adhd_girl.jpg": "/web_adhd/static/media/adhd_girl.61982907.jpg",
+    "static/media/cbt.png": "/web_adhd/static/media/cbt.ee3d6c38.png",
+    "static/media/cloud1.png": "/web_adhd/static/media/cloud1.1d2189b5.png",
+    "static/media/cloud2.png": "/web_adhd/static/media/cloud2.88ecc572.png",
+    "static/media/cloud3.png": "/web_adhd/static/media/cloud3.9cfee12d.png",
+    "static/media/cloud4.png": "/web_adhd/static/media/cloud4.23beb746.png",
+    "static/media/cloud5.png": "/web_adhd/static/media/cloud5.b54e0512.png",
+    "static/media/cryingMan.png": "/web_adhd/static/media/cryingMan.33cfcfa1.png",
+    "static/media/dopamine.png": "/web_adhd/static/media/dopamine.9daab62d.png",
+    "static/media/family.png": "/web_adhd/static/media/family.a9cecac5.png",
+    "static/media/group.png": "/web_adhd/static/media/group.f0fcb9d1.png",
+    "static/media/main_1.png": "/web_adhd/static/media/main_1.84365689.png",
+    "static/media/s3Title.png": "/web_adhd/static/media/s3Title.e3e2faa0.png",
+    "static/media/strattera.jpg": "/web_adhd/static/media/strattera.d4cabf40.jpg",
+    "static/media/type1.png": "/web_adhd/static/media/type1.92ebc5ba.png",
+    "static/media/type2.png": "/web_adhd/static/media/type2.ee4a2466.png",
+    "static/media/wellbutrin.png": "/web_adhd/static/media/wellbutrin.d1a690a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97785a29.js",
+    "static/js/2.fcf917ba.chunk.js",
+    "static/css/main.b0d2e4c2.chunk.css",
+    "static/js/main.fe98d298.chunk.js"
+  ]
+}

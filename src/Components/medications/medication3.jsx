@@ -59,7 +59,7 @@ class Medication3 extends React.Component {
 
           <div className="toEffect" onClick={this.effClick}>
             <div id="rectangle4" style={{ backgroundColor: this.state.color2 }}>
-              <h2 className="tabs" id="effect">
+              <h2 className="tabs" id="effects">
                 Side Effects
               </h2>
             </div>
